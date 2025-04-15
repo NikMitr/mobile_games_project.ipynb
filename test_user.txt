@@ -1,5 +1,0 @@
-age = 24 
-name = 'Nikolay'
-
-print(age)
-print(name)
